@@ -1,0 +1,12 @@
+flask
+python-dotenv
+pymongo
+pymysql
+mysql-connector-python
+ipykernel
+matplotlib
+seaborn
+scikit-learn
+xgboost
+# -e .
+
