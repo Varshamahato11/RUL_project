@@ -66,6 +66,25 @@ Abstract
 ![image](https://github.com/Varshamahato11/RUL_project/assets/90463649/73329aa8-e445-4c00-8ddb-495909428974)
 
 
+### INSTALLATION STEPS:
+
+```
+  conda create -p venv python==3.9 -y
+```
+
+```
+  conda activate venv/
+```
+
+```
+  pip install -r requirements.txt
+```
+
+### Deployment
+
+```
+  python application.py
+```
 
 
 
