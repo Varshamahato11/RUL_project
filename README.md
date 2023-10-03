@@ -10,6 +10,7 @@ In industry, prognostics and health management are key topics for anticipating a
 The C-MAPSS software was used to simulate engine degradation. Four separate sets of operational conditions and fault modes were simulated in four different ways. To characterize fault progression, record numerous sensor channels. The Prognostics CoE at NASA Ames provided the data set.
 
 Abstract
+
 ❏ NASA released dataset of 218 turbofan engines in 2008. The data was recorded until the point of breakdown.
 
 ❏ In this project, we would try to understand the data-set, and predict Remaining Useful Life (RUL) of engines from testing data.
