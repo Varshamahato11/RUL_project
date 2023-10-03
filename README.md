@@ -36,3 +36,37 @@ Abstract
 ❏ 21 sensor’s readings
 
 ❏ Each unit number was associated with a specific engine
+
+### Assumptions
+
+❏ Every engine is assumed to be at the 100% health initially.
+
+❏ Engine health degrades with time.
+
+❏ At cycles = 0, engine health = 1
+
+❏ When RUL becomes zero in training set, i.e. engine completes all the cycles, engine health is assumed to be zero.
+
+❏ To identify the features, which have a major impact on the engine’s health, we preprocess the data and compare slopes of all the graphs. (These features are assumed to exhibit change in data as time (or cycles) increases).
+
+### RESULTS
+
+![image](https://github.com/Varshamahato11/RUL_project/assets/90463649/44da983e-c1ac-4547-b011-7b4be0aa1e83)
+
+![image](https://github.com/Varshamahato11/RUL_project/assets/90463649/a091d514-e864-4ce1-9e19-044f70f443d7)
+
+
+![image](https://github.com/Varshamahato11/RUL_project/assets/90463649/14cc7bce-5ccf-4f83-b94b-2650bbc76bb0)
+
+![image](https://github.com/Varshamahato11/RUL_project/assets/90463649/f083c2ee-fa5f-4ff2-955c-7c4f730a8a75)
+
+
+![image](https://github.com/Varshamahato11/RUL_project/assets/90463649/53b43016-0eec-4976-b2c0-39ca854c3909)
+
+![image](https://github.com/Varshamahato11/RUL_project/assets/90463649/73329aa8-e445-4c00-8ddb-495909428974)
+
+
+
+
+
+
